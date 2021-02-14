@@ -1,17 +1,10 @@
-# NodeJS RESTful API Server Boilerplate
+# ExpressJs-blog-CMS
 
-> This repository is containing free to use boilerplate!
+> This repository is a free to use!
 
 ### ChangeLog
 > 2021/02/12   
-- add multi-roles / authorization     
-> 2021/02/05   
-- add secure auth sample   
-- add jwt
-- add midlleware   
-> 2021/02/04   
-- initial creation
-- basic CRUD
+- initial blog based on [my expressjs boilerplate](https://github.com/rizanw/restful-js-boilerplate)
 
 ## Getting Started:
 
